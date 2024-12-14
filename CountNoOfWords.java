@@ -1,7 +1,13 @@
+import java.util.Scanner;
+
 public class CountNoOfWords {
 	public static void main(String[] args) {
 	// welcome to Full stack Development . Good Morning Hyderabad.
-		String data = "welcome to Full stack Development. Good Morning Hyderabad.";
+		Scanner sc = new Scanner(System.in);
+		System.out.println("enter data");
+		String data = sc.nextLine();
+		
+		//String data = "welcome to Full stack Development. Good Morning Hyderabad.";
 		String words[] = data.split(" ");
 		
 		int max =0;
