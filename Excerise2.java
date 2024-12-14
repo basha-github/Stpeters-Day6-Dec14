@@ -22,22 +22,6 @@ public class Excerise2 {
 			if(count[c] > 0)
 			System.out.println(c+" of elements--->"+count[c]);
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
