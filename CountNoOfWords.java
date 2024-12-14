@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class CountNoOfWords {
 	public static void main(String[] args) {
 	// welcome to Full stack Development . Good Morning Hyderabad.
+		
+		
+		// Hyderbad Bnagalore Goa Hyderbad Delhi Bombay
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter data");
 		String data = sc.nextLine();
