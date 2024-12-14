@@ -1,10 +1,13 @@
+import java.util.Scanner;
 
 public class Excercise4 {
 
 	public static void main(String[] args) {
-	
-		String data = "Welcome to Java World";
 		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("enter data");
+		String data = sc.nextLine();
+		//String data = "welcome to full stack development";
 		data = data.toUpperCase();
 		
 		int[] count = {
