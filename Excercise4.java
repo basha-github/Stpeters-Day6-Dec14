@@ -23,16 +23,6 @@ public class Excercise4 {
 			if(count[i] > 0)
 			System.out.println("["+(char)(i+65)+"]--->"+count[i]);
 		}
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
